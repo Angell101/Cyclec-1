@@ -10,6 +10,7 @@ public class Main {
         task8();// задача 8
         task9();// задача 9
         task10();//задача 10
+        //task11();
     }
 
 
